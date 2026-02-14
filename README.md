@@ -42,7 +42,7 @@ L’objectif n’était pas de copier-coller du code, mais de **comprendre chaqu
 ---
 
 ## 🧠 Architecture du projet
-
+```bash
 src/
 │
 ├── components/
@@ -64,7 +64,9 @@ src/
 │
 ├── App.tsx
 └── main.tsx
+```
 
+---
 
 ### 🔹 Séparation des responsabilités
 
@@ -111,5 +113,3 @@ src/
 npm install
 npm run dev
 ```
-
----
