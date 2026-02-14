@@ -1,4 +1,3 @@
-import React from "react"
 import type { GithubRepo } from "../services/githubApi"
 
 interface RepoListProps {

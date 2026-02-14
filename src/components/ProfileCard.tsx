@@ -1,4 +1,3 @@
-import React from "react"
 import type { GithubUser } from "../services/githubApi"
 
 interface ProfileCardProps {

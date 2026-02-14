@@ -1,4 +1,3 @@
-import React from "react"
 import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from "recharts"
 import type { GithubRepo } from "../services/githubApi"
 import { getLanguageStats } from "../utils/languageStats"
